@@ -10,10 +10,9 @@
 | contains the "web" middleware group. Now create something great!
 |
 
-<<<<<<< HEAD
-//teste 2 
-=======
 // testando meu git hub
+=======
+
 
 
 >>>>>>> c685d582fd62a2aef073f58f7a0c53326dd53fd5
