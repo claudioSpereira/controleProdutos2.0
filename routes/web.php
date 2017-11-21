@@ -15,8 +15,7 @@
 
 
 
->>>>>>> c685d582fd62a2aef073f58f7a0c53326dd53fd5
-Route::get('/', function () {
-    return view('welcome');
-});*/
+>>>>>>> c685d582fd62a2aef073f58f7a0c53326dd53fd5*/
+Route::get('/','ControllerProdutos@welcome');
 Route::get('/produto','ControllerProdutos@produto');
+Route::get('/pdf','ControllerProdutos@pdf');
