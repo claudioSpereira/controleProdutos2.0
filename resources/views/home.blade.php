@@ -19,7 +19,7 @@
               <div class="div-square">
                    <a href="blank.html" style="text-decoration: none;" >
                       <i class="fa fa-print fa-5x"></i>
-                      <h4>Prints Control</h4>
+                      <h4>Print Control</h4>
                   </a>
               </div>
             </div>
