@@ -8,5 +8,4 @@
 </tr>
 @endforeach
 
-
 </table>
