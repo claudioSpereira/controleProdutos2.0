@@ -23,3 +23,6 @@ Route::get('/print','ControllerProdutos@print');
 Route::get('/cria_departamento','ControllerProdutos@cria_departamento');
 Route::post('/salvadepartamento','ControllerProdutos@salvadepartamento');
 Route::get('/listadepartamento','ControllerProdutos@listadepartamento');
+
+Route::get('/criasuprimento','ControllerProdutos@criasuprimento');
+Route::post('/salvasuprimento','ControllerProdutos@salvasuprimento');
